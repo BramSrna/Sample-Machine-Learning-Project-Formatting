@@ -1,4 +1,4 @@
-# sample_ml_project_formatting
+# Sample-Machine-Learning-Project-Formatting
 Simple file structure for a machine learning project built in Python
 
 # File Descriptions
